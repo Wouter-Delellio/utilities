@@ -1,3 +1,6 @@
+.DS_Store
+
 */Porrima_db
 
 **.env.**
+!**.env.properties
